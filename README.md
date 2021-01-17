@@ -1,13 +1,5 @@
-# Aula 01 - Revisão de POO
+# Aula 01 - Revisão de POO  
 
-<p align="center">  
-  <a href="https://github.com/monitoria-C214/aula01/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/monitoria-C214/aula01">
-  </a>
-  
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
- 
-</p>
 
 ## 🛠 Conceitos abordados:
 
@@ -31,4 +23,6 @@
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
+
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
 
