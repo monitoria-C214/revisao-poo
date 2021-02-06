@@ -9,6 +9,12 @@
  - [x] Poliformismo
  - [x] Abstração
  - [x] Interface
+ 
+## Diagrama UML
+
+<p align="center">
+  <img alt="Diagrama UML" src="https://user-images.githubusercontent.com/57146734/107127469-0cda9700-6895-11eb-925c-80cc2efc61f6.png" width="45%;">
+</p>
 
 ## 🦸 Autora
 
