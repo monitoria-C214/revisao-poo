@@ -1,4 +1,4 @@
-# Aula 01 - Revisão de POO  
+# Aula 01 e 02 - Revisão de POO  
 
 
 ## 🛠 Conceitos abordados:
